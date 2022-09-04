@@ -16,7 +16,7 @@
 
 ## Time taken:
 
-- This project took me 1.5 hours to build from scratch because of correct alignment of items correctly.
+- I have taken 1.5 hours to build from scratch because of correct alignment of items correctly.
 
 
 
